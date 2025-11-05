@@ -12,4 +12,8 @@ public class Main {
             System.out.println("i = " + i);
         }
     }
+    // Alumno 4
+    public static void funcionAlumno4() {
+        System.out.println("Función desarrollada por Alumno 4");
+    }
 }
