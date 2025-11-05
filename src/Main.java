@@ -18,6 +18,11 @@ public class Main {
             System.out.println("i = " + i);
         }
     }
+
+    public static void funcionAlumno1() {
+        System.out.println("Función desarrollada por Alumno 1");
+    }
+}
     public static void funcionZaira(){
         System.out.println("Función desarrollada por Zaira");
     }
