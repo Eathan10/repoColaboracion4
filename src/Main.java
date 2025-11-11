@@ -12,6 +12,15 @@ public class Main {
                 return a + b;
             }
         }
+        public class Main {
+            public static void main(String[] args) {
+                System.out.println(esPar(7)); // Imprime "false"
+            }
+
+            static boolean esPar(int n) {
+                return n % 2 == 0;
+            }
+        }
         ;
     }
 }
